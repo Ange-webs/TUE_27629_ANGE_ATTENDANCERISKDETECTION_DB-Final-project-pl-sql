@@ -60,4 +60,14 @@ Example Analytics:
 •	KPIs such as overall no show rate, reduction achieved, peak hours
 These insights enable strategic decision making and improved patient management.
 
+<img width="838" height="481" alt="Image" src="https://github.com/user-attachments/assets/f1f9468a-121f-420d-86d0-e15901a9fdde" />
+
+<img width="945" height="504" alt="Image" src="https://github.com/user-attachments/assets/0b096ce4-3ff6-4aeb-8101-6ce38af822b9" />
+
+<img width="882" height="230" alt="Image" src="https://github.com/user-attachments/assets/d61a0daa-2dac-4cd0-8b5c-482b2371e3f8" />
+
+<img width="764" height="421" alt="Image" src="https://github.com/user-attachments/assets/4410b329-7959-4470-b197-9dac1b1dbaae" />
+
+<img width="956" height="507" alt="Image" src="https://github.com/user-attachments/assets/893cb66d-14f0-4c25-bb51-1084f3c9e77c" />
+
 
