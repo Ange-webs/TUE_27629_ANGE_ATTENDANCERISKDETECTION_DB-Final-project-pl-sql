@@ -70,4 +70,5 @@ These insights enable strategic decision making and improved patient management.
 
 <img width="956" height="507" alt="Image" src="https://github.com/user-attachments/assets/893cb66d-14f0-4c25-bb51-1084f3c9e77c" />
 
+[Attendance_Risk_Detection_System_Presentation.pptx](https://github.com/user-attachments/files/24256817/Attendance_Risk_Detection_System_Presentation.pptx)
 
